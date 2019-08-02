@@ -1,8 +1,8 @@
 AQULA_OGS1.0.CDS.fa.gz
-(stdin)= 82f5266b51d98ea4ae1d1b15a73db732
+(stdin)= ffde3254e1ed9f466b410190ef3739c9
 AQULA_OGS1.0.pep.fa.gz
-(stdin)= 60db94ca4921200c33c7a512fa63bebb
+(stdin)= bfd251794a79b6d371e3adefc6682b53
 AQULA_OGS1.0.mRNA.fa.gz
-(stdin)= c2d2332a78c98244cfd27380976bf85c
+(stdin)= 3f5d88004d45c349f549bcdab55a1eba
 AQULA_OGS1.0.gene.fa.gz
-(stdin)= 3bb33802f1de14f8fb3971c547630e96
+(stdin)= 1c2a4901ff2097a0d45970a0ce8fe253
