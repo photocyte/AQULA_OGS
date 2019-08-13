@@ -22,6 +22,6 @@ AQULA_OGS1.0.gene.fa.gz  FASTA   DNA     14,281  215,096,615      150  15,061.7 
 Genome_release.fa
 Alat1.4.fasta
 file               format  type  num_seqs      sum_len  min_len    avg_len    max_len
-Genome_release.fa  FASTA   DNA      5,388  908,574,383      893  168,629.2  3,615,483
-(stdin)= 043a6cc519e4a633e19f0270f073d480
-fa178ff13b879a78ec342a34173bdf26  Genome_release.fa
+Genome_release.fa  FASTA   DNA      5,365  908,421,673      893  169,323.7  3,615,483
+(stdin)= a1cdd9c03de29927d6abfe92e33dd34b
+68f49208a4795876120e63cc3287cb35  Genome_release.fa
