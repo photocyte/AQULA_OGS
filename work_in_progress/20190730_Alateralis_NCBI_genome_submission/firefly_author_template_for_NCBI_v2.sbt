@@ -1,0 +1,1 @@
+../20190726_Ppyralis_NCBI_genome_submission/firefly_author_template_for_NCBI_v2.sbt
