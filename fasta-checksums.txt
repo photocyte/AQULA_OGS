@@ -2,26 +2,26 @@
 file                    format  type  num_seqs     sum_len  min_len  avg_len  max_len
 AQULA_OGS1.0.CDS.fa.gz  FASTA   DNA     14,281  19,548,946      150  1,368.9   29,772
 (stdin)= 9d4bfaf43d3fce340c7d8b9fe7144aaf
-3f0423f8891a01e085c2ad1213fb2ab9  AQULA_OGS1.0.CDS.fa.gz
+ee89b88618b609999911bd9794a0b8da  AQULA_OGS1.0.CDS.fa.gz
 #########
 file                    format  type     num_seqs    sum_len  min_len  avg_len  max_len
 AQULA_OGS1.0.pep.fa.gz  FASTA   Protein    14,281  6,515,533       49    456.2    9,924
 (stdin)= fe5a964632e2b56a7b56bccb34c8a7e2
-c85ce1e8347dd65babb56a6eeb0e126a  AQULA_OGS1.0.pep.fa.gz
+8a7601929cbe2902967aaf753af74c9f  AQULA_OGS1.0.pep.fa.gz
 #########
 file                     format  type  num_seqs     sum_len  min_len  avg_len  max_len
 AQULA_OGS1.0.mRNA.fa.gz  FASTA   DNA     14,281  19,548,985      150  1,368.9   29,772
 (stdin)= d16d0cad4c3d71c9c801dcdd53a4cde1
-39642a1c6534c9bb9fc7658e37b30955  AQULA_OGS1.0.mRNA.fa.gz
+9a5a1d68a54ac58cd6973eb6c8b924f9  AQULA_OGS1.0.mRNA.fa.gz
 #########
 file                     format  type  num_seqs      sum_len  min_len   avg_len  max_len
 AQULA_OGS1.0.gene.fa.gz  FASTA   DNA     14,281  215,096,615      150  15,061.7  494,058
 (stdin)= 75bd64b7d08e3b19b4afa47b8f326da8
-8fb2648b1007b94e6583b22666bb740b  AQULA_OGS1.0.gene.fa.gz
+c35ab9f370602df0c90a0166032361db  AQULA_OGS1.0.gene.fa.gz
 #########
 Genome_release.fa
 Alat1.4.fasta
 file               format  type  num_seqs      sum_len  min_len    avg_len    max_len
 Genome_release.fa  FASTA   DNA      5,365  908,421,673      893  169,323.7  3,615,483
 (stdin)= a1cdd9c03de29927d6abfe92e33dd34b
-68f49208a4795876120e63cc3287cb35  Genome_release.fa
+0f93479e32fd58f0006aafcf9d33d218  Genome_release.fa
